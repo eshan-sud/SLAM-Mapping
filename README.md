@@ -13,8 +13,11 @@ Mapping of indoor environments using RGB-D SLAM algorithm on a Raspberry Pi 5 wi
 1. ROS Noetic
 2. Rospy
 3. Ubuntu 20.04 (Focal)
-4. Raspian OS
-5. 
+4. Eigen3 3.3.7
+5. Pangolin 4.5.0
+6. ORB-SLAM3
+7. Raspian OS
+8. 
 
 ## Hardware Used
 
