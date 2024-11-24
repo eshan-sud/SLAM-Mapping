@@ -1,6 +1,9 @@
 # SLAM-Mapping
 A repo of my learning of Visual &amp; RGB-D SLAM used in 3D mapping with Raspberry Pi
 
+## Aim:
+Mapping of indoor environments using RGB-D SLAM algorithm on a Raspberry Pi 5 with a Microsoft Kinect v1 as a camera module and using the RGB camera data along with its depth data to create and visualise a 3D structure of the environment.
+
 
 ## 
 
